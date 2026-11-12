@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bead.chess4k",
+      "sha256_cert_fingerprints":
+        ["70:79:9E:FF:22:3E:ED:5B:8E:1F:09:2E:95:19:55:1F:55:F7:DC:0A:34:83:3D:9E:25:A9:42:75:4A:32:F8:35"]
+    }
+  }
+]
